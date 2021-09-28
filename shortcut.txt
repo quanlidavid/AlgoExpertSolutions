@@ -1,0 +1,21 @@
+操作代码
+ctrl+d:复制粘贴一行
+ctrl+y:删除一行
+shift+F6:重命令
+ctrl+O:复写代码
+
+格式代码及其他功能
+ctrl+alt+L:格式代码
+在代码中使用alt+insert:Generate,可以get/set等操作
+ctrl+alt+T:添加try/catch
+ctrl+alt+M:抽取代码
+ctrl+alt+F:变量抽取全局变量
+还需要设置前缀:Editor-->code style-->java-->code Genertion-->设置Field的前缘为m添加
+ctrl+alt+v:方法体内值抽取成变量
+保存成模板:ctrl+shift+L,这个是自定义的(save as live Template)
+选中内容:tab进行退格
+shift+tab:反向退格
+alt+shift+上下键:选中代码移动
+ctrl+shift+上下键:可以移动当前方法体,如果移动一行代码只能在代码体内移动
+ctrl+shift+U:代码大小写
+ctrl+shift+enter:补全代码(一行尾添加分号,如果是if等添加括号)
