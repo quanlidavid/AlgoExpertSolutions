@@ -1,0 +1,7 @@
+array   列表
+dict    字典 在python中，哈希表对应的是字典
+binary search   二分查找
+binary tree     二叉树
+binary search tree   二叉查找树
+//      取整除 - 向下取接近商的整数
+/       除 - x 除以 y  在整数除法中，除法 / 总是返回一个浮点数，如果只想得到整数的结果，丢弃可能的分数部分，可以使用运算符 //
